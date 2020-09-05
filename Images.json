@@ -1,7 +1,7 @@
 {
     "car":59452,
     "carmultiple":61446,
-    "boltcar":61447,
+    "electriccar":61447,
     "bus":59678,
     "busdouble":61448,
     "tram":61449,
@@ -322,4 +322,5 @@
     "command":61529,
     "commandcircle":61530,
     "commandsqaure":61531,
+    "blank":999999
 }
